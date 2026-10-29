@@ -27,8 +27,9 @@ To run the pipeline locally:
 
 ## Installation
 To run this project locally, clone the repository and install dependencies:
+
 ```bash
-git clone [https://github.com/shafiyevrotciv/milan-airbnb-price-prediction.git](https://github.com/shafiyevrotciv/milan-airbnb-price-prediction.git)
+git clone https://github.com/shafiyevrotciv/milan-airbnb-price-prediction.git
 cd milan-airbnb-price-prediction
 pip install -r requirements.txt
 ```
