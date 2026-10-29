@@ -1,0 +1,16 @@
+# Data and models (too large for version control)
+data/*.csv
+models/*.joblib
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+
+# OS system files
+Thumbs.db
+
+# CatBoost Learning cache
+**/catboost_info/
